@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmergencyHealth</string>
+    <string name="title_activity_ride_finder">Map</string>
+</resources>
