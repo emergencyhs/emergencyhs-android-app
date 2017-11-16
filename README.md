@@ -5,14 +5,14 @@ For any questions please contact us at emergencyhealthserve@gmail.com
 You can view this website [here](https://emergencyhs.com)
 
 ## Authors
-[Samuel Opoku-Agyemang]()
-Sena Ama Katako
-Dennis Delasi Nyanyo
+* [Samuel Opoku-Agyemang]()
+* Sena Ama Katako
+* Dennis Delasi Nyanyo
 
 ### Contributers
-Yassin Mziya
-Cynoc Boahene
-Elias Yirgalem
+* Yassin Mziya
+* Cynoc Boahene
+* Elias Yirgalem
 
 ## Purpose: Android App Version
 Soon to be released on the [Play Store]()
