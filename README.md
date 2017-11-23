@@ -9,10 +9,11 @@ You can view this website [here](https://emergencyhs.com)
 * Sena Ama Katako
 * Dennis Delasi Nyanyo
 
-### Contributers
+### Contributors
 * Yassin Mziya
 * Cynoc Boahene
 * Elias Yirgalem
+* Vivian Kiniga
 
 ## Purpose: Android App Version
 Soon to be released on the [Play Store]()
